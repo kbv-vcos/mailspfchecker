@@ -1,5 +1,5 @@
 {
-    "name": "dietercoopman/mailspfchecker",
+    "name": "kbv-vcos/mailspfchecker",
     "description": "A package to check if you can send e-mail through a given mailserver in name of a given e-mail address",
     "keywords": [
         "dietercoopman",
